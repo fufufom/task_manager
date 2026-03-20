@@ -1,5 +1,5 @@
 def HelloWorld(print):
-    print = input()
-    print(print)
+    print = print(print)
 
 HelloWorld("print")
+print(HelloWorld)
