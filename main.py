@@ -1,4 +1,5 @@
-def HelloWorld():
-    print("HelloWorld")
+def HelloWorld(print):
+    print = input()
+    print(print)
 
-HelloWorld()
+HelloWorld("print")
