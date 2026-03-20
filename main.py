@@ -3,3 +3,4 @@ def HelloWorld(print):
 
 HelloWorld("print")
 print(HelloWorld)
+print("zhoski kaka")
