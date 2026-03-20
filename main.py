@@ -3,4 +3,5 @@ def HelloWorld(print):
 
 HelloWorld("print")
 print(HelloWorld)
-print("zhoski kaka")
+text = "zhoski kaka"
+print(text)
